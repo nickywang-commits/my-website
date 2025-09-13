@@ -1,0 +1,42 @@
+body{
+    font-family:  Microsoft JhengHei, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+header{
+    background-color: #333;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}
+
+header nav a{
+    color: white;
+    margin: 0 10px;
+}
+ 
+header nav a:hover{
+    text-decoration: underline;
+    color: #ccc;
+}
+
+section{
+    padding: 2rem;
+    max-width: 800px;
+    margin: auto;
+}
+
+h2{
+    color: #333;
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 0.5rem;
+}
+
+footer {
+  background-color: #ccc;
+  color: black;
+  text-align: center;
+  padding: 15px;
+}
